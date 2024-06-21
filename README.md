@@ -19,4 +19,9 @@
 
 不具合がありましたら報告お願いします。
 
+## カーソルの不具合について
+https://jira.atlassian.com/browse/CONFCLOUD-76682
+atlassianのチケットの「Affected customers」をクリックしてください。
+みんなで報告することでチケットの優先度を上げてもらい、公式で修正されることを願ってます。
+
 
