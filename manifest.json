@@ -9,6 +9,11 @@
         "https://*.atlassian.net/*"
       ],
       "css": ["style.css"]
+    },
+    {
+      "matches": ["https://*.atlassian.net/*"],
+      "js": ["conful.js"],
+      "run_at": "document_idle"
     }
   ],
   "icons": {
