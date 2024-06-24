@@ -8,7 +8,7 @@
 
 
 # Installation
-ソースコードをダウンロードして自分で Chrome拡張機能へ追加してください。
+これはChrome拡張機能です。ソースコードをダウンロードして手動でChromeにインストールしてください。
 
 1. Zipでダウンロードして解凍 or git clone
 1. Chrome拡張機能のDeveloper modeをオンにする
@@ -21,9 +21,10 @@
 不具合がありましたらIssue報告 or 修正PRをお願いします。
 
 ## カーソルの不具合について
-https://jira.atlassian.com/browse/CONFCLOUD-76682
+[https://jira.atlassian.com/browse/CONFCLOUD-76682](https://jira.atlassian.com/browse/CONFCLOUD-76682)
+
 atlassianのチケットの「Affected customers」をクリックしてください。
 
-多くが報告することでチケットの優先度を上げてもらい、公式で修正されることを願ってます。
+多くの人が報告することでチケットの優先度を上げてもらい、公式で修正されることを願ってます。
 
 
