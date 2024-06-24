@@ -1,5 +1,5 @@
 # conflu-japanese-issue-chrome-extension
-コンフルで日本語入力時にカーソルが飛ぶ問題への応急的な修正ツールです。
+confluence(コンフルエンス)、jira(ジラ)で日本語入力時にカーソルが飛ぶ問題への応急的な修正ツールです。
 
 # DEMO
 |Before|After|
