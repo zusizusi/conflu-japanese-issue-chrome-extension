@@ -27,4 +27,7 @@ atlassianのチケットの「Affected customers」をクリックしてくだ�
 
 多くの人が報告することでチケットの優先度を上げてもらい、公式で修正されることを願っています。
 
+## 商標
+Atlassian、Confluence、JiraはAtlassian Pty Ltd.の豪州、米国および他の国々における商標または登録商標です。
+
 
