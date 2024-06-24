@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "matches": ["https://*.atlassian.net/*"],
-      "js": ["conful.js"],
+      "js": ["conflu.js"],
       "run_at": "document_idle"
     }
   ]
