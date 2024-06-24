@@ -8,7 +8,7 @@ document.addEventListener('keydown', function(event) {
         var cursorPosition = selection.anchorOffset;
 
         // 入力カーソル位置が 1 以外から 1 に変わった場合
-        if ((previous_cursor_position != 1 && previous_cursor_position != 0) && cursorPosition === 1 && event.key === "Process") {
+        if ((previous_cursor_position != 1 && previous_cursor_position != 0) && cursorPosition === 1 &&( event.key === "Process" || event.key=="Shift")) {
             activeField.focus();
             document.execCommand('insertText', false, ' ');
         }
