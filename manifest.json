@@ -1,24 +1,13 @@
 {
-  "name": "Confluence Readability",
-  "version": "1.0.1",
+  "name": "fix japanese input issue in Confluence",
+  "version": "1.0.0",
   "manifest_version": 3,
-  "description": "Extension to improve Confluence readability",
+  "description": "Extension to improve Confluence experience for Japanese users",
   "content_scripts": [
-    {
-      "matches": [
-        "https://*.atlassian.net/*"
-      ],
-      "css": ["style.css"]
-    },
     {
       "matches": ["https://*.atlassian.net/*"],
       "js": ["conful.js"],
       "run_at": "document_idle"
     }
-  ],
-  "icons": {
-    "16": "/icons/icon16.png",
-    "48": "/icons/icon48.png",
-    "128": "/icons/icon128.png"
-  }
+  ]
 }
