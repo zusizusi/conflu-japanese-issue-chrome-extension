@@ -11,7 +11,7 @@
 これはChrome拡張機能です。ソースコードをダウンロードして手動でChromeにインストールしてください。
 
 1. Zipでダウンロードして解凍 or git clone
-1. Chrome拡張機能のDeveloper modeをオンにする
+1. Chrome拡張機能管理画面の右上のDeveloper modeをオンにする
 ![image](https://github.com/zusizusi/conflu-japanese-issue-chrome-extension/assets/41606073/4a8e8d1b-38c8-4659-aefb-e45e96f167ef)
 1. Load unpackedからフォルダを選択
 1. ConfluenceやJiraのページをリロードして拡張機能が有効になっていることを確認
@@ -25,6 +25,6 @@
 
 atlassianのチケットの「Affected customers」をクリックしてください。
 
-多くの人が報告することでチケットの優先度を上げてもらい、公式で修正されることを願ってます。
+多くの人が報告することでチケットの優先度を上げてもらい、公式で修正されることを願っています。
 
 
