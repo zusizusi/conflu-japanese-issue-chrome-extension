@@ -10,11 +10,10 @@
 # Installation
 ソースコードをダウンロードして自分で Chrome拡張機能へ追加してください。
 
-1. Zipでダウンロードして解凍 <br> 
-![Screenshot from 2024-06-24 15-13-11](https://github.com/zusizusi/conflu-japanese-issue-chrome-extension/assets/41606073/bd939024-3932-4ef9-a5eb-966b7f0a7850)
+1. Zipでダウンロードして解凍 or git clone
 1. Chrome拡張機能のDeveloper modeをオンにする
 ![image](https://github.com/zusizusi/conflu-japanese-issue-chrome-extension/assets/41606073/4a8e8d1b-38c8-4659-aefb-e45e96f167ef)
-1. Load unpackedから解凍したZipファイルを選択
+1. Load unpackedからフォルダを選択
 1. ConfluenceやJiraのページをリロードして拡張機能が有効になっていることを確認
 
 # Note
