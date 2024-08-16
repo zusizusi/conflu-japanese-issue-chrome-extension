@@ -8,7 +8,13 @@ confluence(コンフルエンス)、jira(ジラ)で日本語入力時にカー�
 
 
 # Installation
-これはChrome拡張機能です。ソースコードをダウンロードして手動でChromeにインストールしてください。
+chromeウェブストアからインストールするか、ソースコードをダウンロードしてご利用ください。
+
+## chromeウェブストアから
+[こちら](https://chromewebstore.google.com/detail/fix-japanese-input-issue/mgipkeakokgbijfjamkajeciacddgmpa)からインストールしてください。
+
+## ソースコードから
+ソースコードをダウンロードして手動でChromeにインストールしてください。
 
 1. Zipでダウンロードして解凍 or git clone
 1. Chrome拡張機能管理画面の右上のDeveloper modeをオンにする
